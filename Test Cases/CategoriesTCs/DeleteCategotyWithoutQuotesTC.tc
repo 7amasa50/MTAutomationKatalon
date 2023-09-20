@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DeleteCategotyWithoutQuotesTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dce68898-212e-4364-9538-1ac767c5df93</testCaseGuid>
+</TestCaseEntity>
